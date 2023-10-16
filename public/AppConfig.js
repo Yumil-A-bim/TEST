@@ -1,4 +1,4 @@
 // AppConfig.js
 AppConfig = {
-    "sceneUUID": "3d1578da-7529-4f73-ae34-c438c09d2ade"
+    "sceneUUID": "841cf99b-7101-4e00-83c7-3733da3ab33c"
 }
